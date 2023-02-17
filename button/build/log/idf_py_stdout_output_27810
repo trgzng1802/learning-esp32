@@ -1,0 +1,25 @@
+[1/16] Linking C static library esp-idf/mqtt/libmqtt.a
+[2/16] Linking C static library esp-idf/spiffs/libspiffs.a
+[3/16] Linking C static library esp-idf/wifi_provisioning/libwifi_provisioning.a
+[4/16] Linking C static library esp-idf/espressif__led_strip/libespressif__led_strip.a
+[5/16] Performing build step for 'bootloader'
+[1/1] cd /home/trngzng/esp32-training/button/build/bootloader/esp-idf/esptool_py && /home/trngzng/.espressif/python_env/idf5.1_py3.10_env/bin/python /home/trngzng/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 /home/trngzng/esp32-training/button/build/bootloader/bootloader.bin
+Bootloader binary size 0x6730 bytes. 0x8d0 bytes (8%) free.
+[6/14] Building C object esp-idf/input/CMakeFiles/__idf_input.dir/src/input.c.obj
+/home/trngzng/esp32-training/button/components/input/src/input.c:5:13: warning: 'input_gpio_handle' defined but not used [-Wunused-function]
+    5 | static void input_gpio_handle(void* arg)
+      |             ^~~~~~~~~~~~~~~~~
+[7/14] Linking C static library esp-idf/input/libinput.a
+[8/14] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj
+[9/14] Linking C static library esp-idf/main/libmain.a
+[10/14] Generating ld/sections.ld
+[11/14] Building C object CMakeFiles/button.elf.dir/project_elf_src_esp32.c.obj
+[12/14] Linking CXX executable button.elf
+[13/14] Generating binary image from built executable
+esptool.py v4.5.dev2
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated /home/trngzng/esp32-training/button/build/button.bin
+[14/14] cd /home/trngzng/esp32-training/button/build/esp-idf/esptool_py && /home/trngzng/.espressif/python_env/idf5.1_py3.10_env/bin/python /home/trngzng/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/trngzng/esp32-training/button/build/partition_table/partition-table.bin /home/trngzng/esp32-training/button/build/button.bin
+button.bin binary size 0x2ba50 bytes. Smallest app partition is 0x100000 bytes. 0xd45b0 bytes (83%) free.
