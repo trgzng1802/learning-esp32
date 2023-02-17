@@ -608,3 +608,10 @@
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/main/CMakeFiles/install.dir
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/main/CMakeFiles/install/local.dir
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/main/CMakeFiles/install/strip.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/__idf_input_iot.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/edit_cache.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/rebuild_cache.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/list_install_components.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/install.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/install/local.dir
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/CMakeFiles/install/strip.dir

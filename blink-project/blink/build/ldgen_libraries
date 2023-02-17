@@ -61,3 +61,4 @@
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/espressif__led_strip/libespressif__led_strip.a
 /home/trngzng/esp32-training/blink-project/blink/build/esp-idf/main/libmain.a
+/home/trngzng/esp32-training/blink-project/blink/build/esp-idf/input_iot/libinput_iot.a
