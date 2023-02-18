@@ -615,3 +615,10 @@
 /home/trngzng/esp32-training/button/build/esp-idf/input/CMakeFiles/install.dir
 /home/trngzng/esp32-training/button/build/esp-idf/input/CMakeFiles/install/local.dir
 /home/trngzng/esp32-training/button/build/esp-idf/input/CMakeFiles/install/strip.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/__idf_output.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/edit_cache.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/rebuild_cache.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/list_install_components.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/install.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/install/local.dir
+/home/trngzng/esp32-training/button/build/esp-idf/output/CMakeFiles/install/strip.dir

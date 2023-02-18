@@ -62,3 +62,4 @@
 /home/trngzng/esp32-training/button/build/esp-idf/espressif__led_strip/libespressif__led_strip.a
 /home/trngzng/esp32-training/button/build/esp-idf/main/libmain.a
 /home/trngzng/esp32-training/button/build/esp-idf/input/libinput.a
+/home/trngzng/esp32-training/button/build/esp-idf/output/liboutput.a

@@ -10,7 +10,8 @@
     "freertos.h": "c",
     "task.h": "c",
     "input.h": "c",
-    "esp_err.h": "c"
+    "esp_err.h": "c",
+    "output.h": "c"
   },
   "idf.flashType": "UART"
 }
